@@ -1,22 +1,36 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3 + Vite" />
+  <Header/>
+  <Separator/>
 </template>
 
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import Header from './components/Header.vue';
+import Separator from "./components/Separator.vue";
 
-// This starter template is using Vue 3 experimental <script setup> SFCs
-// Check out https://github.com/vuejs/rfcs/blob/script-setup-2/active-rfcs/0000-script-setup.md
 </script>
 
 <style>
+
+@import './styles/quick-flex.css';
+@import './styles/reset.css';
+
+@font-face {
+  font-family: "Futura";
+  src: url("./assets/futura/futur.ttf") format('truetype');
+}
+
+
+@font-face {
+  font-family: "Futura Italics";
+  src: url("./assets/futura/Futura Bold Italic font.ttf") format('truetype');
+}
+
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: Futura, Avenir, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  width: 100%;
 }
 </style>
