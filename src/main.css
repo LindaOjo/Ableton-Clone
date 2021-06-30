@@ -1,0 +1,39 @@
+@import "./styles/quick-flex.css";
+@import "./styles/reset.css";
+@import "./styles/colors.css";
+@import "./styles/typography.css";
+
+@font-face {
+    font-family: "futuraPT";
+    src: url("./assets/futura-pt/FuturaPTBook.otf") format("opentype");
+  }
+
+@font-face {
+  font-family: "futuraPTLight";
+  src: url("./assets/futura-pt/FuturaPTLight.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Futura Italics";
+  src: url("./assets/futura/Futura Bold Italic font.ttf") format("truetype");
+}
+
+html {
+    min-width: 100vw;
+    min-height: 100vw;
+    overflow:auto; 
+}
+
+body {
+    /* background-color: aqua; */
+    position: absolute;
+    min-width: 100vw;
+    min-height: 100%;
+}
+
+#app {
+  font-family: futuraPT, Avenir, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  text-align: center;
+  min-width: 100%;
+  min-height: 100%;
+}
