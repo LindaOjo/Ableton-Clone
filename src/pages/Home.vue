@@ -43,210 +43,201 @@
       </div>
     </article>
   </section>
-  <section class="article-group">
-    <div class="sub-section">
-      <div class="heading flex-row">
-        <div class="flex-row">
-          <h2>The latest from Ableton</h2>
+  <main>
+    <section class="article-group">
+        <div class="heading flex-row">
+          <div class="flex-row">
+            <h2>The latest from Ableton</h2>
+          </div>
+
+          <ul class="flex-row small-links medium-hidden">
+            <li class="blue-text">All posts</li>
+            <li class="blue-text">Artists</li>
+            <li class="blue-text">News</li>
+            <li class="blue-text">Downloads</li>
+            <li class="blue-text">Tutorials</li>
+            <li class="blue-text">Videos</li>
+            <li class="blue-text">Loop</li>
+          </ul>
         </div>
+        <div class="articles">
+          <a
+            class="minor-article"
+            href="/en/blog/rachel-k-collier-making-musical-life-online/"
+          >
+            <div class="image-container">
+              <div class="minor-article__img image-1"></div>
+            </div>
+            <small class="minor-article__category coral">Loop</small>
+            <h3 class="minor-article__title">
+              Loop: Five Perspectives on Listening
+            </h3>
+          </a>
 
-        <ul class="flex-row small-links medium-hidden">
-          <li class="blue-text">All posts</li>
-          <li class="blue-text">Artists</li>
-          <li class="blue-text">News</li>
-          <li class="blue-text">Downloads</li>
-          <li class="blue-text">Tutorials</li>
-          <li class="blue-text">Videos</li>
-          <li class="blue-text">Loop</li>
-        </ul>
-      </div>
-      <div class="articles">
-        <a
-          class="minor-article"
-          href="/en/blog/rachel-k-collier-making-musical-life-online/"
-        >
-          <div class="minor-article__img image-1"></div>
-          <small class="minor-article__category coral">Loop</small>
-          <h3 class="minor-article__title">
-            Loop: Five Perspectives on Listening
-          </h3>
-        </a>
+          <a
+            class="minor-article"
+            href="/en/blog/rachel-k-collier-making-musical-life-online/"
+          >
+            <div class="minor-article__img image-2"></div>
+            <small class="minor-article__category coral">Loop</small>
+            <h3 class="minor-article__title">
+              Resilience and Response: Staying Creative in Uncertain Times
+            </h3>
+          </a>
 
-        <a
-          class="minor-article"
-          href="/en/blog/rachel-k-collier-making-musical-life-online/"
-        >
-          <div class="minor-article__img image-2"></div>
-          <small class="minor-article__category coral">Loop</small>
-          <h3 class="minor-article__title">
-            Resilience and Response: Staying Creative in Uncertain Times
-          </h3>
-        </a>
-
-        <a
-          class="minor-article"
-          href="/en/blog/rachel-k-collier-making-musical-life-online/"
-        >
-          <div class="minor-article__img image-3"></div>
-          <small class="minor-article__category coral">Tutorials</small>
-          <h3 class="minor-article__title">
-            Breakbeat Chaos: Making Jungle with Session View and Push
-          </h3>
-        </a>
-      </div>
-    </div>
-  </section>
-  <section class="article-group">
-    <div class="sub-section">
-      <div class="heading flex-row">
-        <div class="flex-row">
-          <h2>In focus: Live 11</h2>
+          <a
+            class="minor-article"
+            href="/en/blog/rachel-k-collier-making-musical-life-online/"
+          >
+            <div class="minor-article__img image-3"></div>
+            <small class="minor-article__category coral">Tutorials</small>
+            <h3 class="minor-article__title">
+              Breakbeat Chaos: Making Jungle with Session View and Push
+            </h3>
+          </a>
         </div>
-      </div>
-      <div class="articles">
-        <a
-          class="minor-article"
-          href="/en/blog/rachel-k-collier-making-musical-life-online/"
-        >
-          <div class="minor-article__img image-4"></div>
-          <small class="minor-article__category coral">Tutorials</small>
-          <h3 class="minor-article__title">
-            Take a Chance: Producing with Probability in Live 11
-          </h3>
-        </a>
-
-        <a
-          class="minor-article"
-          href="/en/blog/rachel-k-collier-making-musical-life-online/"
-        >
-          <div class="minor-article__img image-5"></div>
-          <small class="minor-article__category coral">Tutorials</small>
-          <h3 class="minor-article__title">
-            Hybrid Theory: Creative Sound Design with Live 11’s New Reverb
-          </h3>
-        </a>
-
-        <a
-          class="minor-article"
-          href="/en/blog/rachel-k-collier-making-musical-life-online/"
-        >
-          <div class="minor-article__img image-6"></div>
-          <small class="minor-article__category peach">Downloads</small>
-          <h3 class="minor-article__title">
-            Live 11 and Max for Live: Get a Glimpse of What’s Possible with Some
-            Free Devices
-          </h3>
-        </a>
-      </div>
-    </div>
-  </section>
-  <section class="video-group">
-    <div class="sub-section">
-      <div class="heading flex-row">
-        <div class="flex-row">
-          <h2>One Thing videos</h2>
+    </section>
+    <section class="article-group">
+        <div class="heading flex-row">
+          <div class="flex-row">
+            <h2>In focus: Live 11</h2>
+          </div>
         </div>
-        <ul class="flex-row small-links mobile-hidden">
-          <li class="blue-text">See all videos</li>
-        </ul>
-      </div>
-      <div class="videos">
-        <a
-          class="minor-video"
-          href="/en/blog/rachel-k-collier-making-musical-life-online/"
-        >
-          <div class="minor-video__img video-image-1">
-            <div class="play-icon"></div>
-          </div>
-          <h3 class="minor-video__title">
-            From rhythm to melody
-          </h3>
-        </a>
+        <div class="articles">
+          <a
+            class="minor-article"
+            href="/en/blog/rachel-k-collier-making-musical-life-online/"
+          >
+            <div class="minor-article__img image-4"></div>
+            <small class="minor-article__category coral">Tutorials</small>
+            <h3 class="minor-article__title">
+              Take a Chance: Producing with Probability in Live 11
+            </h3>
+          </a>
 
-        <a
-          class="minor-video"
-          href="/en/blog/rachel-k-collier-making-musical-life-online/"
-        >
-          <div class="minor-video__img video-image-2">
-            <div class="play-icon"></div>
-          </div>
-          <h3 class="minor-video__title">
-            Rhythms in rhythms
-          </h3>
-        </a>
+          <a
+            class="minor-article"
+            href="/en/blog/rachel-k-collier-making-musical-life-online/"
+          >
+            <div class="minor-article__img image-5"></div>
+            <small class="minor-article__category coral">Tutorials</small>
+            <h3 class="minor-article__title">
+              Hybrid Theory: Creative Sound Design with Live 11’s New Reverb
+            </h3>
+          </a>
 
-        <a
-          class="minor-video"
-          href="/en/blog/rachel-k-collier-making-musical-life-online/"
-        >
-          <div class="minor-video__img video-image-3">
-            <div class="play-icon"></div>
-          </div>
-          <h3 class="minor-video__title">
-            Gated noise
-          </h3>
-        </a>
+          <a
+            class="minor-article"
+            href="/en/blog/rachel-k-collier-making-musical-life-online/"
+          >
+            <div class="minor-article__img image-6"></div>
+            <small class="minor-article__category peach">Downloads</small>
+            <h3 class="minor-article__title">
+              Live 11 and Max for Live: Get a Glimpse of What’s Possible with
+              Some Free Devices
+            </h3>
+          </a>
       </div>
-    </div>
-  </section>
-  <section class="video-group">
-    <div class="sub-section">
-      <div class="heading flex-row">
-        <div class="flex-row">
-          <h2>Videos and features from the Loop summit</h2>
+    </section>
+    <section class="video-group">
+        <div class="heading flex-row">
+          <div class="flex-row">
+            <h2>One Thing videos</h2>
+          </div>
+          <ul class="flex-row small-links mobile-hidden">
+            <li class="blue-text">See all videos</li>
+          </ul>
         </div>
-        <ul class="flex-row small-links mobile-hidden">
-          <li class="blue-text">See more</li>
-        </ul>
-      </div>
-      <div class="videos">
-        <a
-          class="minor-video"
-          href="/en/blog/rachel-k-collier-making-musical-life-online/"
-        >
+        <div class="videos">
+          <a
+            class="minor-video"
+            href="/en/blog/rachel-k-collier-making-musical-life-online/"
+          >
+            <div class="minor-video__img video-image-1">
+              <div class="play-icon"></div>
+            </div>
+            <h3 class="minor-video__title">From rhythm to melody</h3>
+          </a>
 
-          <div class="minor-video__img video-image-4">
-            <div class="play-icon"></div>
+          <a
+            class="minor-video"
+            href="/en/blog/rachel-k-collier-making-musical-life-online/"
+          >
+            <div class="minor-video__img video-image-2">
+              <div class="play-icon"></div>
+            </div>
+            <h3 class="minor-video__title">Rhythms in rhythms</h3>
+          </a>
+
+          <a
+            class="minor-video"
+            href="/en/blog/rachel-k-collier-making-musical-life-online/"
+          >
+            <div class="minor-video__img video-image-3">
+              <div class="play-icon"></div>
+            </div>
+            <h3 class="minor-video__title">Gated noise</h3>
+          </a>
+        </div>
+    </section>
+    <section class="video-group">
+        <div class="heading flex-row">
+          <div class="flex-row">
+            <h2>Videos and features from the Loop summit</h2>
           </div>
+          <ul class="flex-row small-links mobile-hidden">
+            <li class="blue-text">See more</li>
+          </ul>
+        </div>
+        <div class="videos">
+          <a
+            class="minor-video"
+            href="/en/blog/rachel-k-collier-making-musical-life-online/"
+          >
+            <div class="minor-video__img video-image-4">
+              <div class="play-icon"></div>
+            </div>
 
-          <h3 class="minor-video__title">
-            Patrice Rushen on Musical Lineage1
-          </h3>
-        </a>
+            <h3 class="minor-video__title">
+              Patrice Rushen on Musical Lineage1
+            </h3>
+          </a>
 
-        <a
-          class="minor-video"
-          href="/en/blog/rachel-k-collier-making-musical-life-online/"
-        >
-          <div class="minor-video__img video-image-5">
-            <div class="play-icon"></div>
-          </div>
-          <h3 class="minor-video__title">
-            Coco Solid on Changing the Paradigm
-          </h3>
-        </a>
+          <a
+            class="minor-video"
+            href="/en/blog/rachel-k-collier-making-musical-life-online/"
+          >
+            <div class="minor-video__img video-image-5">
+              <div class="play-icon"></div>
+            </div>
+            <h3 class="minor-video__title">
+              Coco Solid on Changing the Paradigm
+            </h3>
+          </a>
 
-        <a
-          class="minor-video"
-          href="/en/blog/rachel-k-collier-making-musical-life-online/"
-        >
-          <div class="minor-video__img video-image-6">
-            <div class="play-icon"></div>
-          </div>
-          <h3 class="minor-video__title">
-            Lea Bertucci: Composing for Four Dimensions
-          </h3>
-        </a>
-      </div>
-    </div>
-  </section>
+          <a
+            class="minor-video"
+            href="/en/blog/rachel-k-collier-making-musical-life-online/"
+          >
+            <div class="minor-video__img video-image-6">
+              <div class="play-icon"></div>
+            </div>
+            <h3 class="minor-video__title">
+              Lea Bertucci: Composing for Four Dimensions
+            </h3>
+          </a>
+        </div>
+    </section>
+  </main>
 </template>
 
 <script>
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import { CSSRulePlugin } from "gsap/CSSRulePlugin";
 
 gsap.registerPlugin(ScrollTrigger);
+gsap.registerPlugin(CSSRulePlugin);
 
 export default {
   name: "Home",
@@ -254,35 +245,37 @@ export default {
     return {};
   },
   mounted() {
-    gsap.to('.article-1', {
-      xPercent: -70,
+    gsap.to(".article-1", {
+      xPercent: -30,
       ease: "none",
       scrollTrigger: {
         trigger: ".article-1",
         start: "top end",
         end: "bottom top",
-        scrub: true
-      }
+        scrub: true,
+      },
     });
-    gsap.to('.article-2', {
-      xPercent: 100,
+
+    gsap.to(".article-2", {
+      yPercent: 50,
       ease: "none",
       scrollTrigger: {
         trigger: ".article-1",
         start: "top end",
         end: "bottom top",
-        scrub: true
-      }
+        scrub: true,
+      },
     });
-    gsap.to('.article-3', {
-      yPercent: -150,
+
+    gsap.to(".article-3", {
+      yPercent: -180,
       ease: "none",
       scrollTrigger: {
         trigger: ".article-1",
         start: "top end",
         end: "bottom top",
-        scrub: true
-      }
+        scrub: true,
+      },
     });
   },
   components: {},
@@ -336,7 +329,7 @@ li {
 
   .article-3 {
     position: absolute;
-    bottom: -49%;
+    bottom: -32%;
     right: 24.8%;
     width: 34%;
     height: 60%;
@@ -358,13 +351,14 @@ li {
     }
 
     h2 {
-      font-size: 1.875rem;
-      line-height: 1.4;
+      font-size: min(22px, 1.8rem);
+      line-height: 1.5;
     }
   }
 }
 
-.article-group, .video-group {
+.article-group,
+.video-group {
   min-width: 100%;
   min-height: 50vh;
   padding: 2rem 5rem;
@@ -381,24 +375,47 @@ li {
   }
 
   @media only screen and (max-width: 1000px) {
-    .heading{
+    .heading {
       text-align: start;
     }
   }
 
-  .articles, .videos {
+  .articles,
+  .videos {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
   }
 
-  .minor-article, .minor-video {
+  @media only screen and (max-width: 900px) {
+    .articles,
+    .videos {
+      flex-direction: column;
+    }
+  }
+
+  .minor-article,
+  .minor-video {
     display: flex;
     flex-direction: column;
     justify-content: start;
     margin-top: 2rem;
     text-align: start;
     width: 370px;
+
+    .image-container {
+      width: fit-content;
+      height: fit-content;
+      &:after {
+        content: "";
+        position: absolute;
+        width: 0%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background: #000000;
+      }
+    }
 
     &__img {
       display: block;
@@ -459,7 +476,7 @@ li {
     .video-image-6 {
       background-image: url("https://ableton-production.imgix.net/uploads/content-clusters/BL_ApersonalTake_800x400.jpg?auto=format&dpr=2&fit=crop&fm=jpg&h=152&ixjsv=1.1.3&q=50&w=270");
     }
-    
+
     &__category {
       font-size: 16px;
     }
@@ -481,9 +498,24 @@ li {
     position: absolute;
     left: 50%;
     top: 50%;
-    transform: translate(-50%,-50%);
-
+    transform: translate(-50%, -50%);
   }
 }
 
+@media only screen and (max-width: 900px) {
+  .article-group,
+  .video-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem 3rem;
+  }
+
+  .article-3 {
+    height: 48%;
+  }
+  .article-2 {
+    bottom: -20%;
+  }
+}
 </style>

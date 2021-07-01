@@ -68,7 +68,10 @@
           <small><strong>Imprint</strong></small>
         </li>
       </ul>
-      <div class="logo-container"><Logo /> <small>Made in Berlin</small></div>
+      <div class="logo-container">
+        <Logo />
+        <span><small>Made in Berlin</small></span>
+      </div>
     </div>
   </div>
 </template>
@@ -117,6 +120,7 @@ export default {
 
   .section-c {
       display: flex;
+      flex-direction: column;
       justify-content: space-between;
   }
 
@@ -127,6 +131,7 @@ export default {
     justify-content: start;
     align-items: end;
     position: relative;
+    margin-top: 2rem;
 
     small {
         font-size: 1rem;
@@ -152,7 +157,7 @@ export default {
     ul {
       max-height: 10rem;
     }
-
+    
     section,
     .section-c {
       flex-direction: row;
@@ -169,6 +174,10 @@ export default {
         line-height: 1.5;
         font-size: 1rem;
       }
+    }
+
+    .logo-container {
+      margin-top: 0;
     }
   }
 }
